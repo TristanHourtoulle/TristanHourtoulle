@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my Portfolio](https://github.com/TristanHourtoulle/Portfolio)
 
-- 🌱 I’m currently learning **Vue.js | Node.js**
+- 🌱 I’m currently learning **React.js | Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TristanHourtoulle/Portfolio](https://github.com/TristanHourtoulle/Portfolio)
 
