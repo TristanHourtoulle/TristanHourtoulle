@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js | Node.js | Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TristanHourtoulle/Portfolio](https://github.com/TristanHourtoulle/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/TristanHourtoulle/Portfolio](https://github.com/TristanHourtoulle/Portfolio) (in progress...)
 
 - 📫 How to reach me **tristan.hourtoulle@epitech.eu**
 
