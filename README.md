@@ -1,12 +1,6 @@
 # Tristan Hourtoulle
 
-<p align="left">
-  <svg width="500" height="30" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" fill="#2563eb" font-weight="500">
-      Fullstack Web Developer • Freelance • 23 years old
-    </text>
-  </svg>
-</p>
+<img src="./subtitle.svg" alt="Fullstack Web Developer • Freelance • 23 years old">
 
 Currently building **[Edukai](https://edukai.fr)**, an educational platform.
 
