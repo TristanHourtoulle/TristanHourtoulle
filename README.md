@@ -1,10 +1,15 @@
 # Tristan Hourtoulle
 
-<img src="./subtitle.svg" alt="Fullstack Web Developer • Freelance • 23 years old">
+[PORTFOLIO](https://tristanhourtoulle.fr) | [EDUKAI](https://edukai.fr)
 
-Currently building **[Edukai](https://edukai.fr)**, an educational platform.
+## About Me:
 
-## Tech Stack
+> [!IMPORTANT]
+> 👋 Hi, I'm **Tristan Hourtoulle**!
+>
+> I'm a **Fullstack Web Developer** working as a freelance at 23 years old. I'm currently building **Edukai**, an educational platform designed to help students learn more effectively. I enjoy creating clean, performant web applications with modern technologies like TypeScript, React, Next.js, and Node.js.
+
+## Tech Stack:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -12,10 +17,6 @@ Currently building **[Edukai](https://edukai.fr)**, an educational platform.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## Links
-
-**[Portfolio](https://tristanhourtoulle.fr)** • **[Edukai](https://edukai.fr)**
-
 ---
 
-**Open to freelance opportunities**
+*Open to freelance opportunities and collaboration*
